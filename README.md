@@ -74,7 +74,7 @@ The framework utilizes wildfire incidents reported by Norwegian fire and rescue 
 | Category | Examples |
 |-----------|-----------|
 | Meteorological | Temperature, Relative Humidity, Wind Speed, Precipitation |
-| Vegetation | NDVI, EVI, SAVI |
+| Vegetation | NDVI, NDWI|
 | SAR | VV, VH Backscatter |
 | Topographic | Elevation, Slope, Aspect |
 | Accessibility | Distance to Roads and Settlements |

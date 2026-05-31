@@ -187,5 +187,5 @@ We acknowledge the Norwegian fire and rescue services for wildfire incident reco
 **Abdul Hanan**  
 PhD Research Fellow  
 Western Norway University of Applied Sciences (HVL), Norway
-
+Ci2lab.com
 For questions, suggestions, or collaborations, please open an issue or contact the authors.

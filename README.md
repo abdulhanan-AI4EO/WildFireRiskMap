@@ -118,7 +118,7 @@ The fused representation is used as input to machine learning models for wildfir
 ### Wildfire Risk Mapping
 
 <p align="center">
-  <img src="figures/norway_risk_map.png" width="850">
+  <img src="fire_probability_map_2025_green_publication (1).png" width="850">
 </p>
 
 The framework generates spatial wildfire ignition probability maps that identify areas with elevated wildfire risk.

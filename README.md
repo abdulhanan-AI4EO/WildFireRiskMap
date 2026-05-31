@@ -163,7 +163,7 @@ The framework generates spatial wildfire ignition probability maps that identify
 ### Environmental Regimes
 
 <p align="center">
-  <img src="figures/regime_distribution.png" width="800">
+  <img src="map_fire_regimes_k5.png" width="800">
 </p>
 
 Environmental regimes help characterize distinct wildfire ignition environments across Norway.

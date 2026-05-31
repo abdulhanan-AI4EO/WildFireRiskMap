@@ -87,43 +87,6 @@ The framework utilizes wildfire incidents reported by Norwegian fire and rescue 
 - ERA5-Land Meteorological Data
 - Additional Geospatial Datasets
 
----
-
-## Repository Structure
-
-```text
-HybridEO-FireMAP/
-│
-├── data/
-│   ├── wildfire_events/
-│   ├── environmental_features/
-│   ├── eo_foundation_embeddings/
-│   └── processed/
-│
-├── scripts/
-│   ├── preprocessing/
-│   ├── feature_extraction/
-│   ├── training/
-│   └── risk_mapping/
-│
-├── notebooks/
-│
-├── models/
-│
-├── results/
-│
-├── figures/
-│   ├── framework_overview.png
-│   ├── norway_risk_map.png
-│   ├── regime_distribution.png
-│   └── feature_importance.png
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
 
 ## Methodology
 
